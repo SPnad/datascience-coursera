@@ -29,3 +29,4 @@ cacheSolve <- function(x, ...) {
   x$setsolve(s)
   s
   }
+## commit once after first commit 
